@@ -1,0 +1,22 @@
+{
+  "name": "CYPodLib",
+  "version": "0.1.0",
+  "summary": "A short description of CYPodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yaocylulu/CYPodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaocylulu": "857113743@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yaocylulu/CYPodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CYPodLib/Classes/**/*"
+}

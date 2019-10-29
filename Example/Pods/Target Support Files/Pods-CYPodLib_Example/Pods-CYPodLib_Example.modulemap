@@ -1,0 +1,6 @@
+framework module Pods_CYPodLib_Example {
+  umbrella header "Pods-CYPodLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

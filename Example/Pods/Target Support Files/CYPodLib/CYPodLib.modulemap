@@ -1,0 +1,6 @@
+framework module CYPodLib {
+  umbrella header "CYPodLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
